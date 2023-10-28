@@ -36,11 +36,6 @@ body {
   --switch-bg-url: url(./assets/sun.svg);
 }
 
-body* {
-  font-family: "Inter", sans-serif;
-  color: var(--text-color);
-}
-
 #container {
   width: 100%;
   max-width: 588px;
